@@ -14,4 +14,6 @@
 
 @property(nonatomic,assign)int age;
 
+@property(nonatomic,assign)int height;
+
 @end
