@@ -17,4 +17,6 @@
 
 @property(nonatomic,assign)int weight;
 
+@property(nonatomic,copy)NSString *tel;
+
 @end
