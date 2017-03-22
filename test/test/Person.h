@@ -22,6 +22,10 @@
 /**
  * 用户id
  **/
+
 @property(nonatomic,copy)NSString *idCardNum;
+
+
+
 
 @end
