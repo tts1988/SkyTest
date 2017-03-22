@@ -19,4 +19,9 @@
 
 @property(nonatomic,copy)NSString *tel;
 
+/**
+ * 用户id
+ **/
+@property(nonatomic,copy)NSString *idNum;
+
 @end
