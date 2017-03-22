@@ -20,12 +20,13 @@
 @property(nonatomic,copy)NSString *tel;
 
 /**
- * 用户id
+  用户id
  **/
 
 @property(nonatomic,copy)NSString *idCardNum;
 
-
+/** 用户详细地址**/
+@property(nonatomic,copy)NSString *detailAddress;
 
 
 @end
